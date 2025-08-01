@@ -1,5 +1,6 @@
 import unittest
 import statistics
+import math
 
 
 class StatsTest(unittest.TestCase):
